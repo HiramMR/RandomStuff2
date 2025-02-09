@@ -27,10 +27,10 @@ body  {
 
 	--envelope-width: 300px;
 	--envelope-height: 175px;
-	--envelope-clr-bg: #e17ee0;
-	--envelope-clr-bg-side: #c064be;
-	--envelope-clr-bg-bottom: #cd72cc;
-	--envelope-clr-bg-top: #e17ee0;
+	--envelope-clr-bg: #d73d3d;
+	--envelope-clr-bg-side: #a92626;
+	--envelope-clr-bg-bottom: #d13939;
+	--envelope-clr-bg-top: #c53434;
 	--envelope-clr-txt: #fff;
 
 	/*--envelope-transform: rotateY(0deg);*/
